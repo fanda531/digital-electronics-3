@@ -1,6 +1,6 @@
 # Lab 1: Viktor Buzovsky
 ### De Morgan's laws
-Testdadadad
+
 1. Equations of all three versions of logic function f(c,b,a):
 
    ![Logic function](images/equations_filled.JPG)
