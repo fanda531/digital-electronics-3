@@ -1,4 +1,4 @@
-# Lab 2: YOUR_FIRSTNAME LASTNAME
+# Lab 2: Viktor Buzovsky
 
 ### 2-bit comparator
 
@@ -6,15 +6,15 @@
 
    Greater than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![K-maps](images/b_greater_than_a.PNG)
 
    Less than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![K-maps](images/b_lesser_than_a.PNG)
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/comparator_min.png)
+   ![Logic functions](images/equations.PNG)
 
 ### 4-bit comparator
 
