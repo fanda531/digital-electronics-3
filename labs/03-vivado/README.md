@@ -18,7 +18,7 @@ After completing this lab you will be able to:
 
 The purpose of this laboratory exercise is to learn to use Vivado to create a simple HDL design targeting Nexys A7 Artix-7 FPGA Trainer Board.
 
-![circuit.png](circuit.png)
+![images/circuit.png](images/circuit.png)
 
 <a name="preparation"></a>
 
