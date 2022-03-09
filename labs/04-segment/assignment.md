@@ -8,8 +8,7 @@
     p_stimulus : process
     begin
         report "Stimulus process started" severity note;
-
-        -- First test case
+        
         -- 0
         s_hex <= "0000"; wait for 50 ns;
         assert (s_seg = "0000001")
